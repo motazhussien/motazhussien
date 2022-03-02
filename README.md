@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @motazhussien
-- 👀 I’m interested in data analysis 
-- 🌱 I’m currently learning SQL
+- 👀 I’m interested in Web Development  
+- 🌱 I’m currently learning JavaScript 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me motaz.hussien@outlook.com
 
